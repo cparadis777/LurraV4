@@ -1,0 +1,18 @@
+Id,State,Full Name,Form,Color,Capital,Culture,Type,Expansionism,Cells,Burgs,Area km2,Total Population,Rural Population,Urban Population
+7,Castricia,Castrician Empire,Empire,#ffa862,Normaga,Tallian,Generic,5.8,4325,75,96508491.51890627,27140115,26407176,732939
+11,Torvia,Torvian Empire,Empire,#b3f75f,Malara,Soumi,Hunting,4.7,4474,25,92520478.42597657,13402492,13118112,284380
+6,Karlstat,Karlstatian Empire,Empire,#ffd92f,Karlstat,Shwazen,Generic,2.9,4420,171,92382161.19152345,47186137,45763299,1422838
+3,Modets,United Provinces of Modets,United Provinces,#8da0cb,Vyatrov,Slovan,River,4.8,4116,51,88804683.28648439,19266187,18748249,517938
+9,Ardon,Kingdom of Ardon,Kingdom,#9e9cdc,Panvile,Luari,Generic,5.3,2954,51,65572808.16734376,19952648,19605887,346761
+12,Chichet,Chichetian Theocracy,Theocracy,#ebf44c,Leigh,Angshire,Naval,4,2495,31,51411853.568906255,9462803,9248430,214373
+15,Torta,Kingdom of Torta,Kingdom,#edb1c1,Casos,Astellian,River,4.3,2199,13,51318604.8673047,8024102,7780207,243895
+2,Chueles,Chuelesian Oligarchy,Oligarchy,#fc8d62,Fegarte,Luari,Generic,2.4,2077,52,46138734.84992188,15899600,15357704,541896
+5,Luzboria,Exarchate of Luzboria,Exarchate,#a6d854,Tersun,Slovan,River,2.8,1708,13,35908780.14472657,6787633,6586176,201457
+14,Flostia,Principality of Flostia,Principality,#ff8b7f,Baklaus,Norse,Generic,2.6,1390,31,31539039.58980469,7730556,7486087,244469
+10,Chaus,Grand Duchy of Chaus,Grand Duchy,#94bfad,Gernoisis,Luari,Generic,3.8,1166,25,22611153.945078127,7628241,7415451,212790
+1,Candejia,Divine Grand Duchy of Candejia,Divine Grand Duchy,#66c2a5,Pelos,Astellian,River,4,1037,22,22278409.65464844,7330805,7032388,298417
+4,Anzia,Grand Duchy of Anzia,Grand Duchy,#e78ac3,Borconera,Tallian,Generic,5,898,27,16217444.801250003,6660147,6317973,342174
+13,Alcoria,Grand Duchy of Alcoria,Grand Duchy,#8bc4cf,Urios,Astellian,River,2.1,803,21,16126705.483437503,4178623,4003282,175341
+8,Tanilmia,Duchy of Tanilmia,Duchy,#e9a288,Pansete,Astellian,River,2.3,604,11,13739177.371171877,2869714,2761701,108013
+0,Neutrals,,,,,,,,500,0,11936134.931054689,0,0,0
+16,Hutan,Duchy of Hutan,Duchy,#a4f763,Viastoda,Astellian,River,2.2,160,2,3796998.7989062504,554436,515402,39034
